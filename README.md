@@ -22,6 +22,6 @@
 <h3 align="center">Languages & Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,php,bootstrap,vue,maven,laravel,mysql,vscode,androidstudio, github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,php,bootstrap,vue,maven,laravel,mysql,vscode,androidstudio,github" />
   </a>
 </p>
